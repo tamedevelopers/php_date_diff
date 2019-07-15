@@ -6,7 +6,7 @@ Use case defined
 
 
     |--------------------------------------------------------------------------
-    | You don't extantiate static class, just call the class directly with the class name or assign to a var.
+    | You don't instantiate static class, just call the class directly with the class name or assign to a var.
     |
 
 
