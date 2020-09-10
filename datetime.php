@@ -2,11 +2,11 @@
 
 /*
 |--------------------------------------------------------------------------
-| Created by Fredrick Peter
+| Created by Fredrick Peterson
 |--------------------------------------------------------------------------
-| Email: tekhdevteam@gmail.com
-| Website: tekhdev.com
-| Github: tekhdev
+| Email: support@tamedev.com
+| Website: tamedev.com
+| Github: tamedev
 */
 
 
